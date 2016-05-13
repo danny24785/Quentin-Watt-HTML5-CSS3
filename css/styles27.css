@@ -1,0 +1,27 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+	color:#CCC;
+}
+
+a{
+	color:#00CC00;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#FF0000;
+	text-decoration:underline;
+}
+
+a:active{
+	color:#FF9933;
+	text-decoration:none;
+}
+
+a:visited{
+	color:#666666;
+	text-decoration:line-through;
+}
