@@ -1,0 +1,17 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	background-color:orange;
+	background-image:url(../images/play.png);
+	background-repeat:no-repeat;
+	background-position:top left;
+}
+
+h1{
+	color:#CCC;
+}
+
+div{
+	height:350px;
+	width:100%;
+	color:#FFF;
+}
