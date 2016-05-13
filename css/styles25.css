@@ -1,0 +1,17 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+	color:#CCC;
+}
+
+#parent p:before{
+	content:"content before ";
+	color:#999;
+}
+
+#parent p:after{
+	content:" content after";
+	color:#999;
+}
