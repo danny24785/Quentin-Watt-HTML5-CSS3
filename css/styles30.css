@@ -1,0 +1,17 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+	color:#CCC;
+}
+
+.rounded_box{
+	background-color:#FF9900;
+	background-image:linear-gradient(to top, #FF9900, #FF3300 79%, #000 80%);
+	width:200px;
+	text-align:center;
+	padding:50px 0px;
+	border-radius:30px;
+	color:#FFF;
+}
