@@ -42,17 +42,27 @@ header, nav, section, article, footer, aside{
 /* Float aside and main section */
 .left_side{
 	float:left;
-	width:686px;
+	width:700px;
+}
+
+.left_side article{
 	border: 2px solid red;
-	margin: 0 10px 0 0;
+	margin-right:10px;
+	padding:5px;
 }
 
 .right_side{
 	float:left;
-	width:296px;
+	width:300px;
+}
+
+.right_side div{
 	border: 2px solid blue;
+	padding:10px;
+	margin:0 0 10px;
 }
 
 .page_footer{
 	clear:both;
+	text-align:center;
 }
