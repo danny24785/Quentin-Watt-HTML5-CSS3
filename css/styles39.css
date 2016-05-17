@@ -1,0 +1,40 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+*{
+	/* get rid of default padding and margin */
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+
+header, nav, section, article, footer, aside{
+	display: block;
+}
+
+/* centering website */
+.container{
+	width:1000px;
+	margin: 0 auto;
+}
+
+.clear{
+	clear:both;
+}
+
+.logo{
+	width:150px;
+	height:109px;
+	float:left;
+}
+
+.top_nav{
+	float:left;
+	width:850px;
+}
+
+.top_nav li{
+	float:left;
+	padding: 35px 20px;
+}
